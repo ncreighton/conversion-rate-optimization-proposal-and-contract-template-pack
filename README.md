@@ -1,2 +1,25 @@
-# conversion-rate-optimization-proposal-and-contract-template-pack
-This Conversion Rate Optimization (CRO) Proposal and Contract Template Pack is a comprehensive toolkit designed for digital marketers, agencies, and freelancers who specialize in improving website conversion rates. It includes professionally crafted templates for both proposals and contracts, tailored specifically for CRO projects. The proposal tem
+# Conversion Rate Optimization Proposal and Contract Template Pack
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard layout | Yes | Yes |
+| Premium components | - | Yes |
+| Custom styling | - | Yes |
+| Support included | - | Yes |
+| Regular updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/00w5kD26HgaUf44avOcZX3b)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/00w5kD26HgaUf44avOcZX3b)
+
